@@ -6,7 +6,7 @@
 
 - Currently trying to contribute to Open Source ✅
 - Figuring out if I prefer front-end or back end 🥶
-- Working on being better than I was yesteday
+- Working on being better than I was yesteday 😎
 
 ### Tool Department:
 
@@ -22,5 +22,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR35a7gU3sdDuHWn_7-PdcNGIbvi9vnTcrCEw&usqp=CAU" alt="GraphQL logo" width="50" height="50"/>
 </a>
 <a href="https://www.python.org/">
-<img src="https://www.linuxscrew.com/wp-content/uploads/2020/07/python-logo.png" alt="Python logo" width="50" height="50"/>
+<img src="https://www.linuxscrew.com/wp-content/uploads/2020/07/python-logo.png" alt="Python logo" width="50" height="50" 
+/>
 </a>
