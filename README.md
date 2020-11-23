@@ -4,8 +4,8 @@
 
 ### Current Status
 
-- Currently trying to contribute to Open Source ✅
-- Figuring out if I prefer front-end or back end 🥶
+- Currently building cool things✅
+- Figuring out if I prefer front-end or back-end development 🥶
 - Working on being better than I was yesteday 😎
 
 ### Tool Department:
