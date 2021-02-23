@@ -4,7 +4,7 @@
 
 ### Current Status
 
-- Currently building cool things✅
+- Currently building cool things ✅
 - Figuring out if I prefer front-end or back-end development 🥶
 - Working on being better than I was yesteday 😎
 
